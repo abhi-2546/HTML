@@ -1,0 +1,12 @@
+input[type=button]{
+        color: #0b0606d3;
+        background-color:white;
+        cursor: pointer;
+        border-radius: 20px;
+        padding: 15px 32px;
+    }
+    input[type=button]:hover
+    {
+
+    background-color: rgb(156, 244, 251);
+    }
